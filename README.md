@@ -37,7 +37,7 @@ That curiosity is why my projects jump between analog boards, VHDL, Java backend
 | **[Real-Time Digital Oscilloscope](https://github.com/EfeCaginYildirim/projet_pmnd)** <br><sub>INSA team project</sub> | 500 kHz STM32 acquisition over UART; I built the GTK+3 interface and the Δt / ΔV cursors | C · STM32 · GTK+3 |
 | **[Falcon 9 Landing Prediction](https://github.com/EfeCaginYildirim/IBM-Capstone)** <br><sub>IBM Data Science capstone</sub> | End-to-end pipeline on 90 SpaceX launches: scraping, SQL, Dash dashboard, 4 tuned classifiers | Python · scikit-learn · Dash |
 | **Transistor Curve Tracer** | Board plotting I<sub>C</sub> = f(V<sub>CE</sub>) of NPN transistors on an oscilloscope in XY mode | Analog · PSpice |
-| **Ultrasonic Obstacle Receiver** | 40 kHz receive chain detecting obstacles up to 1 m, 77.5 mW | Analog · PSpice |
+| **[Ultrasonic Obstacle Receiver](https://github.com/EfeCaginYildirim/ultrasonic-obstacle-receiver)** <br><sub>INSA S5 project · team of 2</sub> | 40 kHz receive chain: BJT amplifier, precision rectifier and active envelope detector, for obstacles up to 1 m at 77.5 mW | Analog · OrCAD PSpice |
 | **CPU Execution Unit Extension** | FSM-driven iterative divider and 16-bit adder-subtractor | VHDL · RTL |
 
 ### Contributions
