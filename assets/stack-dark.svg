@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 236" width="1000" height="236" font-family="-apple-system, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" role="img" aria-label="Skills: electronics and signal, embedded and digital, software, data and ML">
+  <style>@keyframes up{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+    @keyframes pulse{0%{transform:translateX(0);opacity:0}5%{opacity:1}95%{opacity:1}100%{transform:translateX(960px);opacity:0}}
+    .card{animation:up .7s ease-out both} .p{animation:pulse 6s cubic-bezier(.45,0,.55,1) 1.2s infinite both}</style>
+  <g class="card" style="animation-delay:0.00s">
+  <rect x="1" y="22" width="236" height="212" rx="12" fill="#161b22" stroke="#30363d"/>
+  <text x="22" y="54" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11.5" letter-spacing="1.5" fill="#f2a93b">01 / ANALOG</text>
+  <path d="M186.0,52.0 L187.0,49.0 L188.0,46.5 L189.0,45.2 L190.0,45.2 L191.0,46.5 L192.0,49.0 L193.0,52.0 L194.0,55.0 L195.0,57.5 L196.0,58.8 L197.0,58.8 L198.0,57.5 L199.0,55.0 L200.0,52.0 L201.0,49.0 L202.0,46.5 L203.0,45.2 L204.0,45.2 L205.0,46.5 L206.0,49.0 L207.0,52.0 L208.0,55.0 L209.0,57.5 L210.0,58.8 L211.0,58.8 L212.0,57.5 L213.0,55.0 L214.0,52.0" fill="none" stroke="#f2a93b" stroke-width="2"/>
+  <text x="22" y="86" font-size="18" font-weight="650" fill="#e6edf3">Electronics &amp; Signal</text>
+  <text x="22" y="118" font-size="14" fill="#8b949e">Analog circuit design</text><text x="22" y="142" font-size="14" fill="#8b949e">OrCAD / PSpice · KiCad</text><text x="22" y="166" font-size="14" fill="#8b949e">Filtering · DSP</text><text x="22" y="190" font-size="14" fill="#8b949e">MATLAB · Simulink</text></g><g class="card" style="animation-delay:0.12s">
+  <rect x="255" y="22" width="236" height="212" rx="12" fill="#161b22" stroke="#30363d"/>
+  <text x="276" y="54" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11.5" letter-spacing="1.5" fill="#f2a93b">02 / EMBEDDED</text>
+  <rect x="442" y="43" width="24" height="18" rx="3" fill="none" stroke="#f2a93b" stroke-width="2"/><line x1="447" y1="39" x2="447" y2="43" stroke="#f2a93b" stroke-width="2"/><line x1="447" y1="61" x2="447" y2="65" stroke="#f2a93b" stroke-width="2"/><line x1="454" y1="39" x2="454" y2="43" stroke="#f2a93b" stroke-width="2"/><line x1="454" y1="61" x2="454" y2="65" stroke="#f2a93b" stroke-width="2"/><line x1="461" y1="39" x2="461" y2="43" stroke="#f2a93b" stroke-width="2"/><line x1="461" y1="61" x2="461" y2="65" stroke="#f2a93b" stroke-width="2"/>
+  <text x="276" y="86" font-size="18" font-weight="650" fill="#e6edf3">Embedded &amp; Digital</text>
+  <text x="276" y="118" font-size="14" fill="#8b949e">C on STM32 · UART</text><text x="276" y="142" font-size="14" fill="#8b949e">VHDL · FPGA · RTL</text><text x="276" y="166" font-size="14" fill="#8b949e">Quartus · ModelSim</text><text x="276" y="190" font-size="14" fill="#8b949e">Linux · Bash</text></g><g class="card" style="animation-delay:0.24s">
+  <rect x="509" y="22" width="236" height="212" rx="12" fill="#161b22" stroke="#30363d"/>
+  <text x="530" y="54" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11.5" letter-spacing="1.5" fill="#f2a93b">03 / SOFTWARE</text>
+  <path d="M702,44 L694,52 L702,60 M714,44 L722,52 L714,60 M711,42 L705,62" fill="none" stroke="#f2a93b" stroke-width="2" stroke-linecap="round"/>
+  <text x="530" y="86" font-size="18" font-weight="650" fill="#e6edf3">Software</text>
+  <text x="530" y="118" font-size="14" fill="#8b949e">Java · C++ (OOP)</text><text x="530" y="142" font-size="14" fill="#8b949e">SQL Server · JDBC · REST</text><text x="530" y="166" font-size="14" fill="#8b949e">JUnit · Maven</text><text x="530" y="190" font-size="14" fill="#8b949e">Git · GitLab</text></g><g class="card" style="animation-delay:0.36s">
+  <rect x="763" y="22" width="236" height="212" rx="12" fill="#161b22" stroke="#30363d"/>
+  <text x="784" y="54" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11.5" letter-spacing="1.5" fill="#f2a93b">04 / DATA</text>
+  <circle cx="950" cy="58" r="2.4" fill="#f2a93b"/><circle cx="956" cy="54" r="2.4" fill="#f2a93b"/><circle cx="961" cy="56" r="2.4" fill="#f2a93b"/><circle cx="967" cy="49" r="2.4" fill="#f2a93b"/><circle cx="973" cy="46" r="2.4" fill="#f2a93b"/><circle cx="954" cy="50" r="2.4" fill="#f2a93b"/><circle cx="970" cy="53" r="2.4" fill="#f2a93b"/><line x1="948" y1="60" x2="976" y2="44" stroke="#f2a93b" stroke-width="1.5" opacity=".6"/>
+  <text x="784" y="86" font-size="18" font-weight="650" fill="#e6edf3">Data &amp; ML</text>
+  <text x="784" y="118" font-size="14" fill="#8b949e">Python · Jupyter</text><text x="784" y="142" font-size="14" fill="#8b949e">pandas · NumPy</text><text x="784" y="166" font-size="14" fill="#8b949e">scikit-learn</text><text x="784" y="190" font-size="14" fill="#8b949e">Plotly Dash · Folium</text></g>
+  <line x1="20" y1="22" x2="980" y2="22" stroke="#30363d" stroke-width="1"/>
+  <rect class="p" x="20" y="21" width="40" height="2" rx="1" fill="#f2a93b"/>
+  <circle cx="119.0" cy="22" r="3.5" fill="#161b22" stroke="#f2a93b" stroke-width="1.5"/><circle cx="373.0" cy="22" r="3.5" fill="#161b22" stroke="#f2a93b" stroke-width="1.5"/><circle cx="627.0" cy="22" r="3.5" fill="#161b22" stroke="#f2a93b" stroke-width="1.5"/><circle cx="881.0" cy="22" r="3.5" fill="#161b22" stroke="#f2a93b" stroke-width="1.5"/>
+</svg>
